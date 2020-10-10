@@ -1,0 +1,28 @@
+body {
+}
+
+.about-me {
+  background-color: white;
+  margin: 50px;
+  padding: 12px;
+  content: "";
+  clear: both;
+  display: table;
+  border-radius: 5px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  float: left;
+}
+
+section h1 {
+  margin-left: 81px;
+}
